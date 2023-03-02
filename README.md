@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luccas</h1>
-<h3 align="center">A frontend developer for momenty from World, I will be um FullStack Developer</h3>
+<h3 align="center">A frontend developer for momenty, I will be um FullStack Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=guterw&label=Profile%20views&color=0e75b6&style=flat" alt="guterw" /> </p>
 
