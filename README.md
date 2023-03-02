@@ -91,9 +91,7 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guterw&show_icons=true&locale=en&layout=compact" alt="guterw" />
-</p>
-
-<p align="center">&nbsp;
+</p><p align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guterw&show_icons=true&locale=en" alt="guterw" />
 </p>
 
