@@ -1,9 +1,13 @@
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+
 <h1 align="center">Hi 👋, I'm Luccas</h1>
 <h3 align="center">A frontend developer for momenty, I will be a FullStack Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=guterw&label=Profile%20views&color=0e75b6&style=flat" alt="guterw" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guterw" alt="guterw" /></a> </p>
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ----
 
@@ -92,3 +96,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" alt="trello" width="40" height="40"/>
   </a>
 </p>
+
+</p>
+
+<p align="center">&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guterw&show_icons=true&locale=en&layout=compact" alt="guterw" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guterw&show_icons=true&locale=en" alt="guterw" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guterw&show_icons=true&locale=en&layout=compact" alt="guterw" />
+</p>
+
+<p align="center">
