@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Luccas</h1>
 <h3 align="center">A frontend developer for momenty, I will be a FullStack Developer</h3>
 
-<div flex-direction:"row">
+<p align="center">&nbsp;
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=guterw&label=Profile%20views&color=0e75b6&style=flat" alt="guterw" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=guterw" alt="guterw" /></a> </p>
@@ -104,7 +104,6 @@
 <p align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guterw&show_icons=true&locale=en&layout=compact" alt="guterw" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=guterw&show_icons=true&locale=en" alt="guterw" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guterw&show_icons=true&locale=en&layout=compact" alt="guterw" />
 </p>
 
 <p align="center">
