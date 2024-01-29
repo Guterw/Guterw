@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Luccas</h1>
 <h3 align="center">A Fullstack Javascript Developer</h3>
 <p align="center">
-<img align="center" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="center" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 </p>
 
 ----
